@@ -1,0 +1,16 @@
+body {
+  text-align: center;
+  font-family: sans-serif;
+  display: grid;
+  place-items: center;
+  height: 100vh
+}
+
+div {
+  background: pink;
+  padding: 2rem;
+  border-radius: 2rem;
+  border: 1px solid black;
+  width: 12.5rem;
+
+}
